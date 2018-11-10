@@ -3,7 +3,7 @@ FROM openjdk:alpine
 MAINTAINER Stefan Urban <stefan.urban@live.de>
 
 
-ENV VERSION="3_0_9"
+ENV VERSION="3_0_15"
 
 
 USER root
